@@ -1,6 +1,7 @@
 # 🎨 Colori - Learn Colors with Fun! (Flutter APP)
 
-**Colori** is a modern and colorful Flutter mobile application designed to help young children (ages 3–6) learn basic colors in an interactive and fun way. The app includes a visual color guide, engaging sound effects, and a playful quiz to test color recognition.
+**Colori** is a modern and colorful Flutter mobile application designed to help young children (ages 3–6) learn basic colors in an interactive and fun way. 
+The app includes a visual color guide, engaging sound effects, and a playful quiz to test color recognition.
 
 ---
 
