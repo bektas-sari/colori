@@ -109,5 +109,3 @@ This project is licensed under the MIT License.
 Suggestions, improvements or feedback are welcome! Feel free to fork the repo and create pull requests.
 
 ---
-
-Happy Learning! 🌈
