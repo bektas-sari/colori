@@ -36,7 +36,7 @@ The app includes a visual color guide, engaging sound effects, and a playful qui
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/colori.git
+git clone https://github.com/bektas-sari/colori.git
 cd colori
 flutter pub get
 flutter run
