@@ -1,0 +1,45 @@
+name: colori
+description: Çocuklar için renkleri öğreten eğitici mobil uygulama.
+
+publish_to: 'none' # Bu proje özel, pub.dev'e yayınlanmayacak
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Animasyonlar için Lottie
+  lottie: ^3.1.0
+
+  # Eğlenceli yazı tipleri için
+  google_fonts: ^6.2.0
+
+  # Sesli geri bildirimler için
+  audioplayers: ^5.2.1
+
+  # Temel Material tasarım ve widget'lar
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  # Uygulama içi görseller ve animasyonlar
+  assets:
+    - assets/images/
+    - assets/animations/
+    - assets/sounds/
+
+  # (İstersen ileride özel fontlar da ekleyebilirsin)
+  # fonts:
+  #   - family: Fredoka
+  #     fonts:
+  #       - asset: assets/fonts/Fredoka-Regular.ttf
